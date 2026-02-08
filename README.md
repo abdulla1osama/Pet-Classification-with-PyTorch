@@ -53,7 +53,7 @@ pet-classification/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/pet-classification.git
+git clone https://github.com/abdulla1osama/pet-classification.git
 cd pet-classification
 ```
 
