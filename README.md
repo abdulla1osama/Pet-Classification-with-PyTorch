@@ -46,4 +46,23 @@ pet-classification/
 │       ├── annotations/
 │       └── ...
 │
+```
+#change the download parameter to True in classification file to download the dataset
 
+## 🚀 Quick Start
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/pet-classification.git
+cd pet-classification
+```
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Train the Model
+```bash
+# Basic training (Windows)
+python train.py
